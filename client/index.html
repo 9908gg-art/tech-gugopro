@@ -6,17 +6,31 @@
     <meta
       name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=1" />
-    <title>3C Tech Amazon Affiliate</title>    
-    <!-- THIS IS THE START OF A COMMENT BLOCK, BLOCK TO BE DELETED: Google Fonts here, example:
+    <meta name="description" content="Discover the best 3C tech products with our curated Amazon affiliate recommendations. Headphones, keyboards, mice, monitors and more." />
+    <meta name="keywords" content="tech products, headphones, keyboards, mice, monitors, amazon affiliate" />
+    <meta property="og:title" content="Tech GuGoPro - 3C Tech Product Recommendations" />
+    <meta property="og:description" content="Discover the best 3C tech products with our curated Amazon affiliate recommendations." />
+    <meta property="og:type" content="website" />
+    <title>{{project_title}}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-    THIS IS THE END OF A COMMENT BLOCK, BLOCK TO BE DELETED -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   </head>
 
-  <body>
+  <body lang="en">
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
+    <script>
+      // Auto-detect language based on browser language
+      const browserLang = navigator.language || navigator.userLanguage;
+      if (browserLang.startsWith('ja')) {
+        localStorage.setItem('language', 'ja');
+        document.documentElement.lang = 'ja';
+      } else {
+        localStorage.setItem('language', 'en');
+        document.documentElement.lang = 'en';
+      }
+    </script>
     <script
       defer
       src="%VITE_ANALYTICS_ENDPOINT%/umami"

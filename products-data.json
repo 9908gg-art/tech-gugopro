@@ -1,0 +1,226 @@
+{
+  "products": [
+    {
+      "id": "headphones-1",
+      "category": "headphones",
+      "categoryName": "Headphones",
+      "nameEn": "Sony WH-CH720N Wireless Headphones",
+      "nameJa": "Sony WH-CH720N ワイヤレスヘッドフォン",
+      "descriptionEn": "Noise-cancelling wireless headphones with exceptional sound quality and long battery life. Perfect for music lovers and professionals.",
+      "descriptionJa": "ノイズキャンセリング機能付きワイヤレスヘッドフォン。優れた音質と長いバッテリー寿命を備えています。",
+      "priceUSD": 98,
+      "priceJPY": 12000,
+      "amazonUSLink": "https://amazon.com/s?k=Sony+WH-CH720N&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Sony+WH-CH720N&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "rating": 4.5,
+      "reviews": 2345
+    },
+    {
+      "id": "headphones-2",
+      "category": "headphones",
+      "categoryName": "Headphones",
+      "nameEn": "Apple AirPods Pro 2",
+      "nameJa": "Apple AirPods Pro 2",
+      "descriptionEn": "Premium wireless earbuds with active noise cancellation, transparency mode, and seamless Apple ecosystem integration.",
+      "descriptionJa": "アクティブノイズキャンセリング機能付きプレミアムワイヤレスイヤホン。Apple エコシステムとシームレスに統合。",
+      "priceUSD": 249,
+      "priceJPY": 30000,
+      "amazonUSLink": "https://amazon.com/s?k=Apple+AirPods+Pro+2&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Apple+AirPods+Pro+2&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500&h=500&fit=crop",
+      "rating": 4.8,
+      "reviews": 5678
+    },
+    {
+      "id": "keyboard-1",
+      "category": "keyboards",
+      "categoryName": "Keyboards",
+      "nameEn": "Mechanical Gaming Keyboard RGB",
+      "nameJa": "メカニカルゲーミングキーボード RGB",
+      "descriptionEn": "Professional-grade mechanical keyboard with customizable RGB lighting, perfect for gaming and typing.",
+      "descriptionJa": "カスタマイズ可能な RGB ライティング付きプロフェッショナルグレードのメカニカルキーボード。",
+      "priceUSD": 89,
+      "priceJPY": 10800,
+      "amazonUSLink": "https://amazon.com/s?k=Mechanical+Gaming+Keyboard+RGB&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=メカニカルゲーミングキーボード&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1587829191301-4b13aaf5a52e?w=500&h=500&fit=crop",
+      "rating": 4.6,
+      "reviews": 1234
+    },
+    {
+      "id": "keyboard-2",
+      "category": "keyboards",
+      "categoryName": "Keyboards",
+      "nameEn": "Logitech MX Keys Wireless Keyboard",
+      "nameJa": "Logitech MX Keys ワイヤレスキーボード",
+      "descriptionEn": "Premium wireless keyboard with backlighting and multi-device connectivity for productivity professionals.",
+      "descriptionJa": "バックライト付きプレミアムワイヤレスキーボード。複数デバイス接続対応。",
+      "priceUSD": 99,
+      "priceJPY": 12000,
+      "amazonUSLink": "https://amazon.com/s?k=Logitech+MX+Keys&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Logitech+MX+Keys&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1587829191301-4b13aaf5a52e?w=500&h=500&fit=crop",
+      "rating": 4.7,
+      "reviews": 3456
+    },
+    {
+      "id": "mouse-1",
+      "category": "mice",
+      "categoryName": "Mice",
+      "nameEn": "Logitech MX Master 3S Mouse",
+      "nameJa": "Logitech MX Master 3S マウス",
+      "descriptionEn": "Advanced ergonomic mouse with precision scrolling and multi-device switching for professionals.",
+      "descriptionJa": "精密スクロール機能付きの高度なエルゴノミックマウス。複数デバイス対応。",
+      "priceUSD": 99,
+      "priceJPY": 12000,
+      "amazonUSLink": "https://amazon.com/s?k=Logitech+MX+Master+3S&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Logitech+MX+Master+3S&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500&h=500&fit=crop",
+      "rating": 4.8,
+      "reviews": 4567
+    },
+    {
+      "id": "mouse-2",
+      "category": "mice",
+      "categoryName": "Mice",
+      "nameEn": "Razer DeathAdder V3 Gaming Mouse",
+      "nameJa": "Razer DeathAdder V3 ゲーミングマウス",
+      "descriptionEn": "Ultra-lightweight gaming mouse with 30,000 DPI sensor and customizable buttons for competitive gaming.",
+      "descriptionJa": "30,000 DPI センサー付きの超軽量ゲーミングマウス。カスタマイズ可能なボタン。",
+      "priceUSD": 69,
+      "priceJPY": 8400,
+      "amazonUSLink": "https://amazon.com/s?k=Razer+DeathAdder+V3&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Razer+DeathAdder+V3&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500&h=500&fit=crop",
+      "rating": 4.7,
+      "reviews": 2345
+    },
+    {
+      "id": "monitor-1",
+      "category": "monitors",
+      "categoryName": "Monitors",
+      "nameEn": "Dell UltraSharp 27 4K Monitor",
+      "nameJa": "Dell UltraSharp 27 4K モニター",
+      "descriptionEn": "Professional 4K monitor with excellent color accuracy and USB-C connectivity for creative professionals.",
+      "descriptionJa": "優れた色精度と USB-C 接続を備えたプロフェッショナル 4K モニター。",
+      "priceUSD": 499,
+      "priceJPY": 60000,
+      "amazonUSLink": "https://amazon.com/s?k=Dell+UltraSharp+27+4K&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Dell+UltraSharp+27+4K&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
+      "rating": 4.6,
+      "reviews": 1234
+    },
+    {
+      "id": "monitor-2",
+      "category": "monitors",
+      "categoryName": "Monitors",
+      "nameEn": "LG 27 Inch 144Hz Gaming Monitor",
+      "nameJa": "LG 27 インチ 144Hz ゲーミングモニター",
+      "descriptionEn": "High-refresh gaming monitor with 144Hz refresh rate and 1ms response time for smooth gameplay.",
+      "descriptionJa": "144Hz リフレッシュレートと 1ms 応答時間を備えたハイリフレッシュゲーミングモニター。",
+      "priceUSD": 299,
+      "priceJPY": 36000,
+      "amazonUSLink": "https://amazon.com/s?k=LG+27+144Hz+Gaming+Monitor&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=LG+27+144Hz+ゲーミングモニター&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
+      "rating": 4.5,
+      "reviews": 2345
+    },
+    {
+      "id": "accessories-1",
+      "category": "accessories",
+      "categoryName": "Mobile Accessories",
+      "nameEn": "Anker USB-C Fast Charger 65W",
+      "nameJa": "Anker USB-C 高速充電器 65W",
+      "descriptionEn": "Compact and powerful USB-C charger supporting fast charging for multiple devices simultaneously.",
+      "descriptionJa": "複数デバイスの同時高速充電に対応したコンパクトで強力な USB-C 充電器。",
+      "priceUSD": 39,
+      "priceJPY": 4800,
+      "amazonUSLink": "https://amazon.com/s?k=Anker+USB-C+Fast+Charger+65W&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Anker+USB-C+65W&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "rating": 4.7,
+      "reviews": 3456
+    },
+    {
+      "id": "accessories-2",
+      "category": "accessories",
+      "categoryName": "Mobile Accessories",
+      "nameEn": "Spigen Tough Armor iPhone Case",
+      "nameJa": "Spigen Tough Armor iPhone ケース",
+      "descriptionEn": "Durable protective case with military-grade protection and sleek design for iPhones.",
+      "descriptionJa": "ミリタリーグレードの保護機能を備えた耐久性の高い iPhone ケース。",
+      "priceUSD": 15,
+      "priceJPY": 1800,
+      "amazonUSLink": "https://amazon.com/s?k=Spigen+Tough+Armor+iPhone&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Spigen+iPhone+ケース&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "rating": 4.6,
+      "reviews": 5678
+    },
+    {
+      "id": "accessories-3",
+      "category": "accessories",
+      "categoryName": "Mobile Accessories",
+      "nameEn": "Anker Portable Phone Stand",
+      "nameJa": "Anker ポータブル電話スタンド",
+      "descriptionEn": "Adjustable portable phone stand compatible with all smartphones and tablets.",
+      "descriptionJa": "すべてのスマートフォンとタブレットに対応した調整可能なポータブル電話スタンド。",
+      "priceUSD": 12,
+      "priceJPY": 1500,
+      "amazonUSLink": "https://amazon.com/s?k=Anker+Portable+Phone+Stand&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Anker+スマートフォンスタンド&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
+      "rating": 4.5,
+      "reviews": 2345
+    }
+  ],
+  "categories": [
+    {
+      "id": "headphones",
+      "nameEn": "Headphones",
+      "nameJa": "ヘッドフォン",
+      "icon": "Headphones"
+    },
+    {
+      "id": "keyboards",
+      "nameEn": "Keyboards",
+      "nameJa": "キーボード",
+      "icon": "Keyboard"
+    },
+    {
+      "id": "mice",
+      "nameEn": "Mice",
+      "nameJa": "マウス",
+      "icon": "Mouse"
+    },
+    {
+      "id": "monitors",
+      "nameEn": "Monitors",
+      "nameJa": "モニター",
+      "icon": "Monitor"
+    },
+    {
+      "id": "accessories",
+      "nameEn": "Mobile Accessories",
+      "nameJa": "モバイルアクセサリー",
+      "icon": "Smartphone"
+    }
+  ],
+  "affiliateInfo": {
+    "us": {
+      "code": "9908qq-20",
+      "country": "United States",
+      "currency": "USD",
+      "amazonUrl": "https://amazon.com"
+    },
+    "jp": {
+      "code": "gugopro-22",
+      "country": "Japan",
+      "currency": "JPY",
+      "amazonUrl": "https://amazon.co.jp"
+    }
+  }
+}
