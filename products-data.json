@@ -175,6 +175,86 @@
       "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=500&h=500&fit=crop",
       "rating": 4.5,
       "reviews": 2345
+    },
+    {
+      "id": "laptops-1",
+      "category": "laptops",
+      "categoryName": "Laptops",
+      "nameEn": "Apple MacBook Neo 13-inch",
+      "nameJa": "Apple MacBook Neo 13インチ",
+      "descriptionEn": "The MacBook Neo is Apple's most affordable laptop, featuring the powerful A18 Pro chip. Pros: Incredible value for price, vibrant color options, and silent fanless design. Cons: Base model lacks Touch ID and has limited 8GB memory.",
+      "descriptionJa": "A18 Proチップを搭載したApple史上最も手頃なノートPC。長所：圧倒的なコストパフォーマンス、豊富なカラーバリエーション、静かなファンレス設計。短所：ベースモデルはTouch ID非搭載で、8GBメモリは将来的に不足する可能性があります。",
+      "priceUSD": 699,
+      "priceJPY": 114800,
+      "amazonUSLink": "https://amazon.com/s?k=Apple+MacBook+Neo+13-inch&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Apple+MacBook+Neo+13インチ&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1517336714460-4c50d91c3074?w=500&h=500&fit=crop",
+      "rating": 4.8,
+      "reviews": 1250
+    },
+    {
+      "id": "headphones-3",
+      "category": "headphones",
+      "categoryName": "Headphones",
+      "nameEn": "Sony WF-1000XM6 Earbuds",
+      "nameJa": "Sony WF-1000XM6 ワイヤレスイヤホン",
+      "descriptionEn": "Sony's flagship noise-cancelling earbuds with industry-leading sound and improved comfort. Pros: Best-in-class noise cancellation and exceptional audio fidelity. Cons: Higher price point than predecessors and slightly bulky case.",
+      "descriptionJa": "業界最高クラスのノイズキャンセリングと音質を誇るソニーの最新フラッグシップ。長所：進化したノイズキャンセリング性能と極上の音質。短所：前モデルより価格が上昇し、ケースがわずかに大きめです。",
+      "priceUSD": 329,
+      "priceJPY": 39600,
+      "amazonUSLink": "https://amazon.com/s?k=Sony+WF-1000XM6&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Sony+WF-1000XM6&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500&h=500&fit=crop",
+      "rating": 4.6,
+      "reviews": 333
+    },
+    {
+      "id": "cameras-1",
+      "category": "cameras",
+      "categoryName": "Cameras",
+      "nameEn": "GoPro Mission 1 Pro",
+      "nameJa": "GoPro Mission 1 Pro シネマティックアクションカメラ",
+      "descriptionEn": "A revolutionary action camera that bridges the gap between action and cinema with a 1-inch sensor. Pros: Exceptional 8K video quality and improved thermal management. Cons: Significantly more expensive and larger than the Hero series.",
+      "descriptionJa": "1インチセンサーを搭載し、アクションカメラとシネマカメラの境界をなくす革新的モデル。長所：驚異的な8K画質と改善された熱管理システム。短所：Heroシリーズと比較してかなり高価で、サイズも大きくなっています。",
+      "priceUSD": 699,
+      "priceJPY": 108000,
+      "amazonUSLink": "https://amazon.com/s?k=GoPro+Mission+1+Pro&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=GoPro+Mission+1+Pro&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&h=500&fit=crop",
+      "rating": 4.6,
+      "reviews": 850
+    },
+    {
+      "id": "accessories-4",
+      "category": "accessories",
+      "categoryName": "Mobile Accessories",
+      "nameEn": "Anker Nano Charger (45W, Display)",
+      "nameJa": "Anker Nano Charger (45W, Display)",
+      "descriptionEn": "Ultra-compact 45W USB-C charger featuring a built-in smart display for real-time power monitoring. Pros: Tiny form factor and helpful charging status display. Cons: Single USB-C port limits charging multiple devices at once.",
+      "descriptionJa": "リアルタイムで充電状況を確認できるディスプレイを搭載した超小型45W急速充電器。長所：非常にコンパクトな設計と便利な電力表示機能。短所：USB-Cポートが1つしかないため、複数デバイスの同時充電はできません。",
+      "priceUSD": 39,
+      "priceJPY": 3990,
+      "amazonUSLink": "https://amazon.com/s?k=Anker+Nano+Charger+45W+Display&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=Anker+Nano+Charger+45W+Display&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1619130966962-611982850ef4?w=500&h=500&fit=crop",
+      "rating": 4.7,
+      "reviews": 1500
+    },
+    {
+      "id": "tablets-1",
+      "category": "tablets",
+      "categoryName": "Tablets",
+      "nameEn": "Apple iPad Air (M3)",
+      "nameJa": "Apple iPad Air (M3)",
+      "descriptionEn": "The latest iPad Air powered by the M3 chip, offering Pro-level performance in a thin, light design. Pros: Excellent balance of performance and price, supports Apple Pencil Pro. Cons: 60Hz display feels dated compared to Pro models.",
+      "descriptionJa": "M3チップを搭載し、Proレベルのパフォーマンスを薄型軽量デザインで実現した最新モデル。長所：性能と価格のバランスが抜群で、Apple Pencil Proに対応。短所：Proモデルと比較すると60Hzのリフレッシュレートは見劣りします。",
+      "priceUSD": 599,
+      "priceJPY": 98800,
+      "amazonUSLink": "https://amazon.com/s?k=iPad+Air+M3&tag=9908qq-20",
+      "amazonJPLink": "https://amazon.co.jp/s?k=iPad+Air+M3&tag=gugopro-22",
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&h=500&fit=crop",
+      "rating": 4.8,
+      "reviews": 2100
     }
   ],
   "categories": [
@@ -207,6 +287,24 @@
       "nameEn": "Mobile Accessories",
       "nameJa": "モバイルアクセサリー",
       "icon": "Smartphone"
+    },
+    {
+      "id": "laptops",
+      "nameEn": "Laptops",
+      "nameJa": "ノートパソコン",
+      "icon": "Laptop"
+    },
+    {
+      "id": "cameras",
+      "nameEn": "Cameras",
+      "nameJa": "カメラ",
+      "icon": "Camera"
+    },
+    {
+      "id": "tablets",
+      "nameEn": "Tablets",
+      "nameJa": "タブレット",
+      "icon": "Tablet"
     }
   ],
   "affiliateInfo": {
